@@ -3,18 +3,14 @@
   <img src="https://media.giphy.com/media/6SPT4vjEWBPjECMXwr/giphy.gif" width="400"/>
 </div>
 
+Hello! I'm a beginner PHP-developer. 
 
-<!--
-**ekaterina-mnt/ekaterina-mnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'd started learning coding with Python and ended a course. My certificate: https://stepik.org/cert/1599918
 
-Here are some ideas to get you started:
+Now I'm learning PHP and HTML/CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have initial skills of using GitHub and Linux.
+
+How to contact me?
+telegram: @ekaterina_bck
+email: ekaterina22.03@rambler.ru
