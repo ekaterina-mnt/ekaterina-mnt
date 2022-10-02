@@ -12,5 +12,5 @@ Now I'm learning PHP and HTML/CSS.
 Have initial skills of using GitHub and Linux.
 
 How to contact me?
-telegram: @ekaterina_bck
-email: ekaterina22.03@rambler.ru
+<p>telegram: @ekaterina_bck</p>
+<p>email: ekaterina22.03@rambler.ru</p>
