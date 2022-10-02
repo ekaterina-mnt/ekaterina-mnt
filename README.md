@@ -14,6 +14,7 @@ Have initial skills of using <b>GitHub</b> and <b>Linux</b>.
 
 <br>
 <small>How to contact me?
+  
 telegram: @ekaterina_bck
   
 email: ekaterina22.03@rambler.ru</small>
