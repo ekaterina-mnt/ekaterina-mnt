@@ -7,6 +7,7 @@
 Hello, I'm a beginner PHP-developer!
 
 
+
 I started learning coding with <b>Python</b> and <b>MySQL</b> at university a year ago. Besides, I ended a course, my certificate: https://stepik.org/cert/1599918.
 
 <br>
