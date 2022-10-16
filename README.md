@@ -7,10 +7,10 @@
 Hello, I'm a beginner PHP-developer!
 
 
-I started learning coding with <b>Python</b> and <b>MySQL</b> at university a year ago. Learned OOP on Python. Besides, I ended a course, my certificate: https://stepik.org/cert/1599918.
+I started learning coding with <b>Python</b> and <b>MySQL</b> at university a year ago. Learned OOP on Python. My certificate: https://stepik.org/cert/1599918.
 
 <br>
-Now I'm learning <b>PHP</b> and <b>HTML/CSS</b>.
+Know the basis of <b>PHP</b> and <b>HTML/CSS</b>. Sertificate: https://stepik.org/cert/1717008.
 
 Have initial skills of using <b>GitHub</b> and <b>Linux</b>.
 
