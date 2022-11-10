@@ -10,7 +10,7 @@ Hello, I'm a beginner PHP-developer!
 I started learning coding with <b>Python</b> and <b>MySQL</b> at university a year ago. Learned OOP on Python.
 
 <br>
-Know the basis of <b>PHP</b>, <b>OOP</b> and <b>HTML/CSS</b>.
+Know the basis of <b>PHP</b>, <b>OOP</b>, <b>Laravel</b> and <b>HTML/CSS</b>.
 
 Have initial skills of using <b>GitHub</b> and <b>Linux</b>.
 
