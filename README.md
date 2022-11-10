@@ -4,7 +4,7 @@
 </div>
 
 <br>
-Hello, I'm a beginner PHP-developer!
+Hello, I'm a PHP-developer!
 
 <br>
 Know the basis of <b>PHP</b>, <b>OOP</b>, <b>Laravel</b>, <b>MySQL</b> and <b>HTML/CSS</b>.
