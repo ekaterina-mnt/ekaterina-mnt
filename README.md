@@ -9,7 +9,7 @@ Hello, I'm a beginner PHP-developer!
 <br>
 Know the basis of <b>PHP</b>, <b>OOP</b>, <b>Laravel</b>, <b>MySQL</b> and <b>HTML/CSS</b>.
 
-Have initial skills of using <b>GitHub</b> and <b>Linux</b>.
+I'm a very positive and responsible person, interested in web-development a lot.
 
 <br>
 <small>How to contact me?
