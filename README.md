@@ -18,17 +18,15 @@
   Я очень позитивный и ответственный человек, заинтересованный в обучении и в веб-разработке.
 </p>
 
-<div class="contacts">
-    <p class="underlined">How to contact me?<p>
-    <p>telegram: @ekaterina_bck</p>
-    <p>email: ekaterina22.03@rambler.ru</p>
+<div>
+    <p>
+      <b>
+        How to contact me?
+      </b>
+      <br>
+      telegram: @ekaterina_bck
+      <br>
+      email: ekaterina22.03@rambler.ru
+  </p>
 </div>
 
-<style>
-  .contacts {
-    font-size: 14px;
-  }
-  .underlined {
-    text-decoration: underlined
-  }
- </style>
