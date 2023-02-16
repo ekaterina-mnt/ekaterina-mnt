@@ -18,10 +18,9 @@
   Я очень позитивный и ответственный человек, заинтересованный в обучении и в веб-разработке.
 </p>
 
-<p>
   <small>
-    How to contact me?
+    <p style="text-decoration:underlined">How to contact me?<p>
     <p>telegram: @ekaterina_bck</p>
     <p>email: ekaterina22.03@rambler.ru</p>
   </small>
-</p>
+
