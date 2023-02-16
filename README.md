@@ -3,17 +3,27 @@
   <img src="https://media.giphy.com/media/6SPT4vjEWBPjECMXwr/giphy.gif" width="400"/>
 </div>
 
-<br>
-Hello, I'm a PHP-developer!
+<p>
+  Привет, я php backend-разработчик!
+</p>
 
-<br>
-Know the basis of <b>PHP</b>, <b>OOP</b>, <b>Laravel</b>, <b>MySQL</b> and <b>HTML/CSS</b>.
+<p>
+  Мой стек: <b>PHP</b>, <b>OOP</b>, <b>Laravel</b>, <b>MySQL</b> and <b>HTML/CSS</b>. Работала с <b>Docker</b> и <b>Github</b>.
+  В данный момент изучаю JavaScript и алгоритмы.
+</p>
 
-I'm a very positive and responsible person, interested in web-development a lot.
+<p>
+  Умею работать с авторизацией, регистрацией, валидацией, пагинацией, построением связей разных видов между таблицами.
+</p>
 
-<br>
-<small>How to contact me?
-  
-telegram: @ekaterina_bck
-  
-email: ekaterina22.03@rambler.ru</small>
+<p>
+  Я очень позитивный и ответственный человек, заинтересованный в обучении и в веб-разработке.
+</p>
+
+<p>
+  <small>
+    How to contact me?
+    telegram: @ekaterina_bck
+    email: ekaterina22.03@rambler.ru
+  </small>
+</p>
