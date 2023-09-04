@@ -10,8 +10,7 @@
 </p>
 
 <p>
-  Мой стек: <b>PHP 7, 8</b>, <b>OOP</b>, <b>MVC</b>>, <b>Laravel 9, 10</b>, <b>SQL</b>, <b>MySQL</b>, <b>phpMyAdmin</b>, <b>HTML5/CSS3</b>, <b>Docker</b>, <b>Github</b>, <b>JavaScript</b>, <b>JQuery</b>, <b>Python3</b>, <b>PyCharm</b>.
-  В данный момент изучаю JavaScript и алгоритмы. Умею работать с авторизацией, регистрацией, валидацией, пагинацией, построением связей разных видов между таблицами.
+  Мой стек: <b>PHP 7, 8</b>, <b>OOP</b>, <b>MVC</b>, <b>Laravel 9, 10</b>, <b>SQL</b>, <b>MySQL</b>, <b>phpMyAdmin</b>, <b>HTML5/CSS3</b>, <b>Docker</b>, <b>Github</b>, <b>JavaScript</b>, <b>JQuery</b>, <b>Python3</b>, <b>PyCharm</b>.
 </p>
 
 <p>
